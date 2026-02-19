@@ -23,6 +23,9 @@
 
 ### 📊 GitHub Stats
 
+<p align="center"
+<img src="https://github-readme-stats.vercel.app/api?username=avanteesarve-code&show_icons=true&count_private=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanteesarve-code&theme=rose-pine" />
