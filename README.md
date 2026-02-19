@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Avantee Sarve 🌸</h1>
 <p align="center">
-  💻 Computer Engineer | ☁️ Salesforce Developer | 📈 Future MBA
+  💻 CSBS Student | ☁️ Salesforce Developer | 📈 Future MBA
 </p>
 
 ### 🌷 About Me
@@ -16,4 +16,3 @@ Interested in Software Development & System Design
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanteesarve-code&theme=rose-pine" />
 </p>
 
-<p align="center">✨ From Code to Leadership ✨</p>
