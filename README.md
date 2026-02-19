@@ -7,7 +7,7 @@
 
 ### 🌷 About Me
 
-🎓 Computer Science and Business Systems Student 
+🎓 Computer Science and Business Systems Student <br>
 💡 Interested in Software Development, Automation & System Design   
 📈 MBA Aspirant (IIMs)  
 🌸 Calm aesthetic. Powerful execution.
