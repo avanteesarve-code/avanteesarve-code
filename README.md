@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Avantee Sarve 🌸</h1>
 <p align="center">
-  💻 Computer Engineer | 🤖 AI Builder | ☁️ Salesforce Dev
+  💻 Computer Engineer | ☁️ Salesforce Dev
 </p>
 
 ---
