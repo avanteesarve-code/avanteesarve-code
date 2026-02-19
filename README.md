@@ -1,11 +1,12 @@
 <h1 align="center">🌸 Avantee Sarve 🌸</h1>
 <p align="center">
-  💻 CSBS Student | ☁️ Salesforce Developer | 📈 Future MBA
+  💻 CSBS | ☁️ Salesforce Developer | 📈 Future MBA
 </p>
 
 ### 🌷 About Me
 Computer Science & Business Systems Student  
 Interested in Software Development & System Design  
+
 ### 🎀 Tech
 `Python` `C++` `Apex` `JavaScript`  
 `Salesforce` `LWC` `MySQL` `Git`
