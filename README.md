@@ -1,42 +1,19 @@
 <h1 align="center">🌸 Avantee Sarve 🌸</h1>
 <p align="center">
-  💻 Computer Engineer | ☁️ Salesforce Dev
+  💻 Computer Engineer | ☁️ Salesforce Developer | 📈 Future MBA
 </p>
 
----
-
 ### 🌷 About Me
-
-🎓 Computer Science and Business Systems Student <br>
-💡 Interested in Software Development, Automation & System Design   
-📈 MBA Aspirant (IIMs)  
-🌸 Calm aesthetic. Powerful execution.
-
----
-
-### 🎀 Tech Stack
-
+Computer Science & Business Systems Student  
+Interested in Software Development & System Design  
+### 🎀 Tech
 `Python` `C++` `Apex` `JavaScript`  
 `Salesforce` `LWC` `MySQL` `Git`
 
----
-
-### 📊 GitHub Stats
-
+### 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avanteesarve-code&theme=rose-pine" />
 </p>
 
----
-
-### 🌼 Current Focus
-
-☁️ Advanced Salesforce Applications  
-🤖 AI Agents using n8n & OpenAI  
-📚 Database Systems & Optimization  
-🚀 Real-world problem solving  
-
----
-
-<p align="center">✨ --From Code to Leadership-- ✨</p>
+<p align="center">✨ From Code to Leadership ✨</p>
